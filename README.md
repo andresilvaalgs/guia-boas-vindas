@@ -18,8 +18,9 @@ Este repositório reúne informações importantes para os participantes da turm
 - Perguntas frequentes
 - Orientações para colaboração
 
-## Apresentação pessoal
+## Recursos úteis
 
-Olá! Meu nome é __________.
+- Documentação do GitHub
+- Material da aula
+- Repositórios de exemplo
 
-Estou aprendendo GitHub para __________________________.
