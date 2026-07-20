@@ -24,3 +24,8 @@ Este repositório reúne informações importantes para os participantes da turm
 - Material da aula
 - Repositórios de exemplo
 
+## Participante
+
+Nome: escreva seu nome.
+
+Objetivo com o curso: escreva como pretende utilizar o GitHub.
